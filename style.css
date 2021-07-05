@@ -6,8 +6,12 @@ h1{
     font-weight: 700;
     font-size: 60px;
     line-height: 20px;
+    color: rgb(59, 57, 57);
 }
-h5{
+h2{
+    font-size: 30px;
+}
+p{
      font-size: 20px;
   
 }
@@ -45,6 +49,7 @@ h5{
     padding:10px 30px;
     font-weight: 700;
     color: blanchedalmond;
+    line-height: 120px;
 }
 .about-me{
     width: 100%;
@@ -55,6 +60,27 @@ h5{
 .right-contain img{
     height: 600px;
     padding: 30px 50px;
+}
+.my-recipe  {
+    text-align: center;
+    margin-top: 50px;
+}
+.recipe-title{
+    width:25%;
+    margin-left: 40px;
+    padding: 20px 25px;
+    border-radius: 25px;
+    box-shadow: 2px 11px 12px;
+    margin-bottom: 50px;
+}
+.recipe-title img{
+    width: 360px;
+}
+.title-wrep{
+    display: flex;
+    margin-left: 50px;
+    text-align: justify;
+
 }
 
 
