@@ -95,5 +95,14 @@ p{
     margin-right: 30px;
     padding: 33px 96px;
 }
+.footer{
+    text-align: center;
+    background-color: rgb(18, 19, 41);
+    height: 300px;
+    margin-bottom: 100px;
+}
+.color-white{
+    color: white;
+}
 
 
