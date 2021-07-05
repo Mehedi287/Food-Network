@@ -1,0 +1,45 @@
+body{
+    font-family: 'Electrolize', sans-serif;
+    font-family: 'Palanquin', sans-serif;
+}
+h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 20px;
+}
+h5{
+     font-size: 20px;
+  
+}
+.header{
+    width: 100%;
+    display: flex;
+    margin-left: 100px;
+}
+.orange-color{
+    color:orange;
+}
+.left-contain{
+   width: 40%; 
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-top: 160px;
+}
+.left-contain img{
+    height: 600px;
+}
+.text-color{
+    color: rgb(94, 89, 83);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    border: 1px solid ;
+    border-radius: 40px;
+    padding:10px 30px;
+    font-weight: 700;
+    color: blanchedalmond;
+
+}
+
+
